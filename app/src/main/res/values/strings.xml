@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Coin List Museum</string>
+    
+    <string name="tittle">Especificaciones detalladas moneda</string>
+    
+    <string name="id">ID</string>
+    <string name="date_in">Fecha_entrada</string>
+    <string name="date_out">Fecha_salida</string>
+    <string name="number">Número</string>
+    <string name="mint">Ceca</string>
+    <string name="material">Material</string>
+    <string name="denomination">Denominación</string>
+    
+    <string name="filter_by">Filtrar por: </string>
+    
+    <string name="btnMint">Ceca</string>
+    <string name="btnMaterial">Material</string>
+    <string name="btnDenomination">Denominación</string>
+    <string name="btnDeleteFilters">Borrar filtros</string>
+    <string name="btnCancel">Cancelar</string>
+    <string name="btnApplyFilters">Aplicar Filtros</string>
+    <string name="btnGoBack">Volver</string>
+
+</resources>

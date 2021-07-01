@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Coin List Museum</string>
+
+    <string name="tittle">Detailed coin specifications</string>
+
+    <string name="id">ID</string>
+    <string name="date_in">Date_in</string>
+    <string name="date_out">Date_out</string>
+    <string name="number">Number</string>
+    <string name="mint">Mint</string>
+    <string name="material">Material</string>
+    <string name="denomination">Denomination</string>
+
+    <string name="filter_by">Filter by: </string>
+
+    <string name="btnMint">Mint</string>
+    <string name="btnMaterial">Material</string>
+    <string name="btnDenomination">Denomination</string>
+    <string name="btnDeleteFilters">Delete filters</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="btnApplyFilters">Apply Filters</string>
+    <string name="btnGoBack">Go Back</string>
+
+</resources>
